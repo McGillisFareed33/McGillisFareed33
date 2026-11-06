@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Poyraz 👋
 
-<!--
-**McGillisFareed33/McGillisFareed33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering graduate based in Tokyo, Japan, interested in backend development and cloud technologies.
 
-Here are some ideas to get you started:
+## Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Backend:** PHP, Laravel, Java
+- **Database:** MySQL, Firebase
+- **Tools:** Git, GitHub, Docker, Postman
+- **Cloud:** AWS fundamentals
+- **Other:** Flutter, Dart, ESP32, ESP8266
+
+## Featured Projects
+
+- [Laravel E-Commerce Backend](https://github.com/McGillisFareed33/e-commerce1)
+- [Smart Home IoT Project](https://github.com/McGillisFareed33/Smarthome)
+
+## Languages
+
+- Turkish — Native
+- English — C1
+- Japanese — JLPT N2
+
+## Career Interests
+
+Junior Backend Developer | PHP / Laravel | Cloud Technologies
+
+Open to backend development opportunities in Japan.
