@@ -8,7 +8,7 @@ I'm a Software Engineering graduate based in Tokyo, Japan, interested in backend
 - **Database:** MySQL, Firebase
 - **Tools:** Git, GitHub, Docker, Postman
 - **Cloud:** AWS fundamentals
-- **Other:** Flutter, Dart, ESP32, ESP8266
+- **Other:** Flutter, Dart
 
 ## Featured Projects
 
